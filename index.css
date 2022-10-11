@@ -31,6 +31,7 @@ body {
     background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     
 }
 
@@ -62,7 +63,7 @@ h1 {
     background-color: skyblue;
     border-radius: 0.75em;
     border: 3px solid red;
-    width: 60%;
+    width: 34%;
     color: white;
     margin-left: 10%;
     font-family: Copperplate;
@@ -83,7 +84,7 @@ h1 {
     background-color: rgb(251, 64, 64);
     border-radius: 0.75em;
     margin-left: 40%;
-    width: 61%;
+    width: 34%;
     color:white;
     padding-top: 10px;
     padding-bottom: 10px;
